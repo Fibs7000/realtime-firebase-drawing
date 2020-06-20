@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Simple Firebase realtime drawing app
+
+this is a quick and dirty firebase drawing project.
+
+Feel free to play around!
+
+
+
+
 
 ## Available Scripts
 
